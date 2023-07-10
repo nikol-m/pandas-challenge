@@ -1,0 +1,16 @@
+
+Written Report (15 points)
+
+*Summary of analysis (5 pts): 
+
+Two unique CSV files, ‘schools_complete’, ‘students_complete’ were merged together to create this dataset in order to give a greater view of the data. The dataset encompasses a total of 15 schools and 39,170 students. When further analyzing the data, you see total students average for math (78.98%) is lower than the total students average for reading (81.8%). In this analysis, you will also notice the distinction between the district and charter schools and their total sizes. 
+
+Looking at the school summary, You can see if whether a school is a District or a Charter school, the number of students, and the total school budget and per student budget. This dataframe also shows you the overall passing percent and if there is a correlation between that, budget, and school type. One assumption that can be made from this data is charter schools seem to be smaller than district schools which allows for higher passing rates. 
+
+As you continue to go through the analysis, you will see the breakdown of grade level passing rates for both math and reading, and scores by school spending. Something interesting to note, higher spending ranges per student doesn’t equate higher subject averages. In fact, based on the data, lower spending ranges per students seems to equate to better scores. You will also notice district vs charter schools also plays a role in passing rates. 
+
+
+*2 correct conclusions or comparisons from the calculations (10 pts.): 
+
+1.	Looking at the school summary, it is evident that the smaller the schools are (based on student totals), the    higher the overall passing %. The smaller schools happen to also be Charter schools which leads to the conclusion that, based on the data, charter schools are smaller than district schools. 
+2.	Scores by school spending: Higher spending ranges per student doesn’t equate higher subject averages. In fact, based on the data, lower spending rangers/students seems to equate to better scores. 
